@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="51ac6fea-c2fe-43f9-a22d-bf27207c31af" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="sampleNCDFE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1SsYTIcWlUxfroAxkYVLT1XGXKN" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/bug/jar/sources" />
+    <property name="project.structure.last.edited" value="Global Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\guptakas\Documents\sampleNCDFE\src\main\resources" />
+      <recent name="C:\Users\guptakas\Documents\sampleNCDFE\src\main" />
+      <recent name="C:\Users\guptakas\Documents\sampleNCDFE\src" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="NCDFE" type="#com.intellij.j2ee.web.jsr45.JSR45ConfigurationFactory" factoryName="Remote" APPLICATION_SERVER_NAME="Generic" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="PORT" value="8787" />
+      <option name="LOCAL" value="false" />
+      <option name="OPEN_IN_BROWSER" value="false" />
+      <option name="OPEN_IN_BROWSER_URL" value="http://localhost:8787" />
+      <server-settings>
+        <option name="JSP_PACKAGE" value="org.apache.jsp" />
+        <option name="VM_OPTS" value="" />
+        <option name="USE_WEBSPHERE51_LINEMAPPING_MODEL" value="false" />
+        <option name="LOCAL_PORT" value="80" />
+      </server-settings>
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="8787" />
+        <option name="LOCAL" value="false" />
+      </RunnerSettings>
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="51ac6fea-c2fe-43f9-a22d-bf27207c31af" name="Default Changelist" comment="" />
+      <created>1572353776385</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1572353776385</updated>
+      <workItem from="1572353778085" duration="2973000" />
+      <workItem from="1572415901539" duration="875000" />
+      <workItem from="1572419541206" duration="231000" />
+      <workItem from="1572419844972" duration="1146000" />
+      <workItem from="1572421073919" duration="335000" />
+      <workItem from="1572423085611" duration="70000" />
+      <workItem from="1572423185206" duration="251000" />
+      <workItem from="1572423439235" duration="579000" />
+      <workItem from="1572424419944" duration="496000" />
+      <workItem from="1572424947806" duration="761000" />
+      <workItem from="1572425893501" duration="34000" />
+      <workItem from="1572426181930" duration="554000" />
+      <workItem from="1572426945172" duration="484000" />
+      <workItem from="1572427467203" duration="220000" />
+      <workItem from="1572427902245" duration="456000" />
+      <workItem from="1572428471850" duration="299000" />
+      <workItem from="1572428906197" duration="1315000" />
+      <workItem from="1572433695218" duration="566000" />
+      <workItem from="1572436497812" duration="814000" />
+      <workItem from="1572438524181" duration="510000" />
+      <workItem from="1572456497468" duration="468000" />
+      <workItem from="1572457029545" duration="97000" />
+      <workItem from="1572457133413" duration="169000" />
+      <workItem from="1572457372723" duration="554000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$USER_HOME$/Desktop/bug/jar/sources/jboss-el-api_3.0_spec-1.0.13.Final-sources.jar!/javax/el/ImportHandler.java</url>
+          <line>175</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$USER_HOME$/Desktop/bug/jar/sources/jboss-el-api_3.0_spec-1.0.13.Final-sources.jar!/javax/el/ImportHandler.java</url>
+          <line>173</line>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$USER_HOME$/Desktop/bug/jar/sources/jboss-el-api_3.0_spec-1.0.13.Final-sources.jar!/javax/el/ImportHandler.java</url>
+          <line>177</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$USER_HOME$/Desktop/bug/jar/sources/wildfly-undertow-16.0.0.Final-sources.jar!/org/wildfly/extension/undertow/ImportedClassELResolver.java</url>
+          <line>64</line>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/webapp/home.jsp</url>
+          <line>13</line>
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$USER_HOME$/Desktop/bug/jar/sources/jastow-2.0.7.Final-sources.jar!/org/apache/jasper/runtime/PageContextImpl.java</url>
+          <line>924</line>
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$USER_HOME$/Desktop/bug/jar/sources/jastow-2.0.7.Final-sources.jar!/org/apache/jasper/runtime/PageContextImpl.java</url>
+          <line>935</line>
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
