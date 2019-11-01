@@ -14,6 +14,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Jsp File" />
         <option value="Class" />
       </list>
     </option>
@@ -98,7 +99,9 @@
       <workItem from="1572456497468" duration="468000" />
       <workItem from="1572457029545" duration="97000" />
       <workItem from="1572457133413" duration="169000" />
-      <workItem from="1572457372723" duration="554000" />
+      <workItem from="1572457372723" duration="702000" />
+      <workItem from="1572470076534" duration="6000" />
+      <workItem from="1572622881323" duration="743000" />
     </task>
     <servers />
   </component>
@@ -142,6 +145,11 @@
           <url>jar://$USER_HOME$/Desktop/bug/jar/sources/jastow-2.0.7.Final-sources.jar!/org/apache/jasper/runtime/PageContextImpl.java</url>
           <line>935</line>
           <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/webapp/pnfex.jsp</url>
+          <line>13</line>
+          <option name="timeStamp" value="22" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

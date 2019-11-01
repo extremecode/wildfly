@@ -13,4 +13,16 @@
         <url-pattern>/home</url-pattern>
     </servlet-mapping>
 
+    <servlet>
+        <servlet-name>pnfexServlet</servlet-name>
+        <servlet-class>com.akash.servlet.PNFExServlet</servlet-class>
+    </servlet>
+
+    <servlet-mapping>
+        <servlet-name>pnfexServlet</servlet-name>
+        <url-pattern>/pnfex</url-pattern>
+    </servlet-mapping>
+
+
+
 </web-app>
